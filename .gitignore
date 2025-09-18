@@ -1,36 +1,34 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+/elden-tracker/node_modules
+/elden-tracker/.pnp
+/elden-tracker/.pnp.js
 
 # testing
-/coverage
+/elden-tracker/coverage
 
 # next.js
-/.next/
-/out/
+/elden-tracker/.next/
+/elden-tracker/out/
 
 # production
-/build
+/elden-tracker/build
 
 # misc
-.DS_Store
-*.pem
+/elden-tracker/.DS_Store
+/elden-tracker/*.pem
 
 # debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/elden-tracker/npm-debug.log*
+/elden-tracker/yarn-debug.log*
+/elden-tracker/yarn-error.log*
 
 # local env files
-.env*.local
-.env
+/elden-tracker/.env*.local
+/elden-tracker/.env
 
 # vercel
-.vercel
+/elden-tracker/.vercel
 
 # typescript
-*.tsbuildinfo
-next-env.d.ts
+/elden-tracker/*.tsbuildinfo
+/elden-tracker/next-env.d.ts
