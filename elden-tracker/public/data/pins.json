@@ -1,0 +1,10 @@
+[
+    {
+        "id": "boss-001",
+        "name": "Margit, the Fell Omen",
+        "type": "boss",
+        "coords": [1200, 1800],
+        "icon": "/icons/boss.png",
+        "status": "undiscovered"
+    }
+]
